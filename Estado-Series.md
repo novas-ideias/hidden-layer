@@ -1,4 +1,4 @@
-# 1. Estado atual correto das séries
+## ✅ 1. Estado atual correto das séries
 
 ## Mathematics Series — ATIVA
 
@@ -14,10 +14,13 @@ comportamento matemático único
 
 Hoje:
 
-MTH-01 GRADIENT
-MTH-02 LIMIT
-MTH-03 SEQUENCE
-MTH-04 INTEGRAL
+#### MTH-01 GRADIENT
+
+#### MTH-02 LIMIT
+
+####  MTH-03 SEQUENCE
+
+#### MTH-04 INTEGRAL
 
 
 Aqui sim você pode adicionar novas no futuro.
@@ -29,16 +32,13 @@ Função diferente.
 Representa estrutura, não comportamento.
 
 Por enquanto:
-
-INPUT → HIDDEN → OUTPUT
-
+#### INPUT → HIDDEN → OUTPUT
 
 Futuro natural:
 
-LATENT STATE
-SYSTEM
-MAPPING
-
+#### LATENT STATE 
+#### SYSTEM 
+#### MAPPING 
 
 ⚠️ Essa série deve crescer devagar.
 Poucas peças, mais conceituais.
@@ -48,14 +48,12 @@ Poucas peças, mais conceituais.
 Representa movimento.
 
 Por enquanto:
-
 #### SIGNAL PATH
 
 Futuro:
-#### PROPAGATION
-#### FLOW
-### CONVERGENCE
-
+#### PROPAGATION 
+#### FLOW 
+### CONVERGENCE 
 
 Mas ainda não expandir.
 
@@ -69,7 +67,7 @@ Não adicionar várias estampas ainda.
 
 Field normalmente aparece quando a marca já está madura.
 
-✅ 2. Regra importante a partir de agora
+## ✅ 2. Regra importante a partir de agora
 
 Nunca lançar mais de:
 
@@ -84,7 +82,7 @@ Hoje:
 
 Isso mantém foco.
 
-✅ 3. Como a loja deve parecer agora
+## ✅ 3. Como a loja deve parecer agora
 
 Quando alguém entra:
 
@@ -95,7 +93,7 @@ Signal Series (em breve)
 
 Isso gera curiosidade sem parecer incompleto.
 
-✅ 4. Regra de crescimento da Hidden Layer
+## ✅ 4. Regra de crescimento da Hidden Layer
 
 Guardar isso:
 
